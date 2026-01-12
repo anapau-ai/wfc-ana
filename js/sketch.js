@@ -4,7 +4,7 @@ let RETICULAY;
 let ancho; //altura de celda
 let alto; //anchura de celda
 
-const NA = 23; // número de azulejos
+const NA = 25; // número de azulejos
 const fileName = 'tile';
 const fileExtension = '.png';
 let reglas = [];
